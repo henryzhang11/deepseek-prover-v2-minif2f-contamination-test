@@ -1,0 +1,8 @@
+backend,prompt_ratio,EM,latency_s,gen_tok,tok_per_s,prompt_tok
+torch,0.8,0.1311,0.4457,8302,38.21,66.0
+backend,prompt_ratio,EM,latency_s,gen_tok,tok_per_s,prompt_tok
+vllm,0.8,0.1291,0.2164,8302,78.77,66.0
+backend,prompt_ratio,EM,latency_s,gen_tok,tok_per_s,prompt_tok
+vllm,0.6,0.0123,0.4343,16393,77.60,49.4
+backend,prompt_ratio,EM,latency_s,gen_tok,tok_per_s,prompt_tok
+torch,0.6,0.0123,0.8643,16393,38.87,49.4

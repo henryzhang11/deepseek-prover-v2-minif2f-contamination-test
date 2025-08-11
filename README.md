@@ -1,3 +1,5 @@
+By feeding deepseek-prover-v2 original miniF2F prompts and asking it to complete the prompt at temperature 0, we find it could complete 1% of all prompts exactly when given the first 60% of the prompts and 12% of all prompts when given the first 80% of the prompts.
+
 ## 0.  System check
 
 ```bash

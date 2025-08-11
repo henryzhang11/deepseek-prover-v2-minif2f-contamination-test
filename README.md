@@ -1,4 +1,4 @@
-By feeding deepseek-prover-v2 original miniF2F prompts and asking it to complete the prompt at temperature 0, we find it could complete 1% of all prompts exactly when given the first 60% of the prompts and 12% of all prompts when given the first 80% of the prompts.
+After feeding deepseek-prover-v2 original miniF2F prompts and asking it to complete the prompt at temperature 0, it could complete the trailing 40% tokens of 1% of the prompts and the trailing 20% tokens of 12% of the prompts, showing almost certain signs of test-set contamination.
 
 ## 0.  System check
 
